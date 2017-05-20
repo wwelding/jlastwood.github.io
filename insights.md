@@ -10,11 +10,13 @@ bigimg:
 tag: random
 ---
 
-## Blog Posts
+## Other News
 
 {% for post in site.posts %}
   * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
 {% endfor %}
+
+## Featured Article
 
  <article class="post-preview">
     <a href="/jlastwood.github.io/2015-02-26-flake-it-till-you-make-it/">
@@ -32,7 +34,7 @@ tag: random
     </div>
 
    </article>
-  
+ 
 
 <div class="posts-list">
   {% for post in paginator.posts %}
