@@ -2,6 +2,7 @@
 layout: post
 title: Project Management Tools
 tags: [tools, Trello]
+category: software
 ---
 ￼
 ￼A good project manager plans in order to understand the work to be accomplished.   
@@ -12,8 +13,8 @@ the tool integrates well with your other systems.
 
 * [Trello Sample Board](https://trello.com/b/E64VamIb/sample-project-board)
 * [Freedcamp]()
+* Redmine
 * Basecamp
 * Asana
 * Jira
 * Spreadsheets
-
