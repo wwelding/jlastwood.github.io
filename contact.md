@@ -3,6 +3,8 @@ layout: page
 title: Blue Zone IT
 subtitle: How Can We Help You? 
 bigimg:
+- "/img/wordcloud.png" : "Wordcloud PNG"
+- "/img/wordcloud.svg" : "Wordcloud SVG"
 - "https://c1.staticflickr.com/3/2891/12843138015_326a6ebbbb.jpg" : "Ice Storm, Dec 22nd, 2012"
 ---
 
@@ -15,15 +17,14 @@ bigimg:
 
 ### Contact Us Today!
  
-<div class="container">
+<div class="container-fluid">
 <form class="well form-horizontal" action=" " method="post"  id="contactform">
 
 <fieldset>
 <input type="text" name="_gotcha" style="display:none" />
 <input type="hidden" name="_subject" value="Website contact" />
 <!-- Form Name --> 
-<H3>Contact Us </H3> 
-<H4>Tell us what you need and we will return you call shortly!</H4>
+<H4>Tell us what you need and we will return your call promptly!</H4>
 
 <!-- Text input-->
 
