@@ -14,7 +14,7 @@ Born and raised in a small town, Leamington, Ontario, the Tomato Capital of Cana
 
 ### Freelance Career
 
-She started her freelance career with Appen Butler as a web search evaluator and quickly moved on to other opportunities with  Mortgage Executive Inc., Elance as a Certified Project Consultant working on large client accounts such as Unilever, Project Management Consulting with [Nexibeo](https://nexbeo.com) and providing IT and business process consulting for various small businesses.   Her focus is on providing excellent service at the right price.   
+She started her freelance career with Appen Butler as a web search evaluator and quickly moved on to other opportunities with  Mortgage Executive Inc., Elance as a Certified Project Consultant working on large client accounts such as Unilever, Project Management Consulting with [Nexibeo](https://nexibeo.com) and providing IT and business process consulting for various small businesses.   Her focus is on providing excellent service at the right price.   
 
 ### Family
 
