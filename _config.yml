@@ -6,7 +6,7 @@
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "http://jlastwood.github.io"
 baseurl: ""
-myversion: v5.1
+myversion: v5.2
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
@@ -43,7 +43,7 @@ title-img: /img/drawsvg.svg
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Janet Astwood
-  email: "contact@bluezoneit.com"
+  # email: "contact@bluezoneit.com"
   facebook: jlastwood  # eg. daattali
   github: jlastwood    # eg. daattali
   twitter: jlpsd   # eg. daattali
@@ -62,7 +62,7 @@ author:
 footer-links-active:
   rss: true
   facebook: false
-  email: true
+  email: false
   twitter: true
   google-plus: false
   github: true
