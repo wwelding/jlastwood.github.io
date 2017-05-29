@@ -10,11 +10,11 @@ bigimg:
 
 ### Early Education
 
-Born and raised in a small town, Leamington, Ontario, the Tomato Capital of Canada.  She graduated from St. Clair College, Windsor, Ontario in 1982 with a diploma of Business/Data Processing. Her first job was with the Federal Government as a mainframe programmer.  She went on to work in the private sector first with a publishing company, followed by several years with an American startup newspaper company and finally worked at a Canadian Financial Institution.  She continuously held positions with increasing responsibility and scope.
+Born and raised in a small town, Leamington, Ontario, the Tomato Capital of Canada.  She graduated from St. Clair College, Windsor, Ontario in 1982 with a diploma of Business/Data Processing. Her first job was with the Federal Government as a mainframe programmer.  She went on to work in the private sector first with a publishing company, followed by several years with an American startup newspaper company and finally worked at a Canadian financial institution.  She continuously held positions with increasing responsibility and scope.
 
 ### Freelance Career
 
-She started her freelance career with Appen Butler as a web search evaluator and quickly moved on to other opportunities with  Mortgage Executive Inc., Elance as a Certified Project Consultant working on large client accounts such as Unilever, Project Management Consulting with [Nexibeo](https://nexibeo.com) and providing IT and business process consulting for various small businesses.   Her focus is on providing excellent service at the right price.   
+She started her freelance career with Appen Butler as a web search evaluator and quickly moved on to other opportunities with  Mortgage Executive Inc., Elance as a Certified Program Consultant working on large client accounts such as Unilever, Project Management Consulting with [Nexibeo](https://nexibeo.com) and providing IT and business process consulting for various small businesses.   Her focus is on providing excellent service at the right price.   
 
 ### Family
 
@@ -47,7 +47,7 @@ You can download a copy of her CV and Portfolio here in PDF format.
 
 ### Contact
 
-You can contact her directly or through any of the major freelance sites. 
+You can contact her directly (see CV) or contract through any of the major freelance sites. 
 
 - [Linked In](https://www.linkedin.com/in/janet-astwood-3bb5b39/)
 - [Remote ](https://remote.com/janet-astwood) 
