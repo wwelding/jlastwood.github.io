@@ -16,28 +16,28 @@ The Project Manager will send a questionnaire to the client, plus have 1 or 2 me
 
 ### The client needs to provide:
 
-* Description of your idea or concept
-* Names of any team members that you want us to use and the role/expertise
-* Brand book, your ideas for logos, fonts, colors for your site or marketing
+* Description of your idea or concept.
+* Names of any team members that you want us to use and the role/expertise,
+* Brand book, logo ideas, fonts, colors for your site or marketing
 * Any designs, ideas or graphics you have in mind
-* Inspiration sites.  Have you seen this done somewhere else.  What do you like or not like about their ideas
-* The budget including how it is to be allocated
-* The authority of the Project Manager who is acting on your behalf
+* Inspiration sites.  Have you seen this done somewhere else.  What do you like or not like about their ideas.
+* The budget including how it is to be allocated.
+* The authority of the Project Manager who is acting on your behalf.
 
 ### The PM will deliver to the client:
 
 * A Charter which includes:
   * Scope of the project:  What is to be done?
-  * Resource plan:  Who are the team members or if staffing needs to be done
-  * Communication plan:   How will team members communicate, how often, how often will project status reports be deliverd to the client.
-  * Constraints, Assumptions and Risks:  What is the budget, are there important time constraints or regulatory requirements
+  * Resource plan:  Who are the team members, roles and skills needed for this product?
+  * Communication plan:   How will team members communicate, how often, how often will project status reports be delivered to the client?
+  * Constraints, Assumptions and Risks:  What is the budget, are there important time constraints or regulatory requirements?
 * Business Case (optional)
-* Financial Plan:  Overview of budget and planned costs
-* Architecture/planned implementation.  If you have already decided on an architecture/solution, then this will be delivered, otherwise a software architect may define this in the next phase. 
+* Financial Plan:  Overview of budget and planned costs.
+* Architecture/planned implementation.  If you have already decided on an solution or technology, then this will be delivered, otherwise a software architect will define this in the next phase. 
 
-### The Communication Board
+### Communication Board
 
-We have a sample Trello board or excel sheet template to setup your project.   We will setup slack, skype, google groups to communicate as per your instructions.  
+We have a sample Trello board and excel template to setup your project.   We will setup slack, skype, google groups to communicate as per your instructions.  
 
 ### Next Step, Execution
   
