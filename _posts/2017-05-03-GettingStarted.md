@@ -33,7 +33,7 @@ The Project Manager will send a questionnaire to the client, plus have 1 or 2 me
   * Constraints, Assumptions and Risks:  What is the budget, are there important time constraints or regulatory requirements?
 * Business Case (optional)
 * Financial Plan:  Overview of budget and planned costs.
-* Architecture/planned implementation.  If you have already decided on a solution or technology, then this will be delivered, otherwise a software architect will define this in the next phase. 
+* Architecture/planned implementation.  If you have already decided on a solution or technology, then this will be delivered, otherwise a software architect will define this in the next phase or we will proceed with a Proof of Concept or MVP (Minimum Viable Product) project to deliver a few features to test the market/solution.  
 
 ### Communication Board
 
