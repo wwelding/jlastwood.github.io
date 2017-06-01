@@ -59,6 +59,7 @@ You can contact her directly (see CV) or contract through any of the major freel
 - [Remote ](https://remote.com/janet-astwood) 
 - [Upwork ](https://www.upwork.com/freelancers/~014b27088d2e859ce3)
 - [PowertoFly ](https://powertofly.com/p/janeta5)
+- [CoWorks](https://app.coworks.com/jlastwood)
 
 ### Social Media 
 
