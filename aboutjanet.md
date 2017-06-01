@@ -29,6 +29,10 @@ She enjoys the outdoors. This includes hiking, camping, skiing, skating.   Also 
 
 She has more than 30 years experience in development, administration and operations. 
 
+### Personality
+
+[Defenders](https://www.16personalities.com/profiles/bcdb3e137678c) handle difficult situations well and tend to be emotionally secure, bold, and resistant to stress. They rarely seek the spotlight, but lead by an example of self-determination and uncomplicated honesty.
+
 ### Location
 
 Digital nomad, however her home base is currently Barcelona, Spain.  She spends considerable time in Oakville
