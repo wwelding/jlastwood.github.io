@@ -6,7 +6,7 @@
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "http://wwelding.github.io"
 baseurl: ""
-myversion: v5.2
+myversion: Structural Ironworker
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
@@ -17,7 +17,8 @@ myversion: v5.2
 title: Washington Welding
 
 # Short description of your site
-description: Welding Services thoughout Canada
+description: Structural Ironworker
+
 
 # --- Navigation bar options --- #
 
@@ -42,10 +43,9 @@ description: Welding Services thoughout Canada
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Washington Welding
-  # email: "contact@bluezoneit.com"
-  # facebook: jlastwood  # eg. daattali
+  name: Washington Astwood
   github: wwelding    # eg. daattali
+
   # twitter: jlpsd   # eg. daattali
   # reddit: yourname    # eg. daattali
   # google-plus: +jlastwood   # eg. +DeanAttali or 109424658772469020925
@@ -85,7 +85,9 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-# url-pretty: "www.washingtonwelding.ca"  # eg. "deanattali.com/beautiful-jekyll"
+
+url-pretty: "www.washingtonwelding.ca"  # eg. "deanattali.com/beautiful-jekyll"
+
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
