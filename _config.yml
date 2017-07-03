@@ -19,6 +19,7 @@ title: Washington Welding
 # Short description of your site
 description: Structural Ironworker
 
+
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
@@ -43,9 +44,8 @@ description: Structural Ironworker
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Washington Astwood
-  # email: "contact@bluezoneit.com"
-  # facebook: jlastwood  # eg. daattali
-  # github: jlastwood    # eg. daattali
+  github: wwelding    # eg. daattali
+
   # twitter: jlpsd   # eg. daattali
   # reddit: yourname    # eg. daattali
   # google-plus: +jlastwood   # eg. +DeanAttali or 109424658772469020925
@@ -60,12 +60,12 @@ author:
 
 # Select which links to show in the footer
 footer-links-active:
-  rss: true
+  rss: false
   facebook: false
   email: false
-  twitter: true
+  twitter: false
   google-plus: false
-  github: true
+  github: false
   reddit: false
   linkedin: false
   xing: false
@@ -85,7 +85,9 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
+
 url-pretty: "www.washingtonwelding.ca"  # eg. "deanattali.com/beautiful-jekyll"
+
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
