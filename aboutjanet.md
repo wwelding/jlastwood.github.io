@@ -29,6 +29,10 @@ She enjoys the outdoors. This includes hiking, camping, skiing, skating.   Also 
 
 She has more than 30 years experience in development, administration and operations. 
 
+### Personality
+
+[Defenders](https://www.16personalities.com/profiles/bcdb3e137678c) handle difficult situations well and tend to be emotionally secure, bold, and resistant to stress. They rarely seek the spotlight, but lead by an example of self-determination and uncomplicated honesty.
+
 ### Location
 
 Digital nomad, however her home base is currently Barcelona, Spain.  She spends considerable time in Oakville
@@ -36,7 +40,9 @@ where she also maintains a residence.
 
 ### Certifications, Languages and Awards
 
-Her native language is English, however she can read/write at an intermediate level in Catalan and Spanish.  She completed PMP and has ITIL Foundations and Service Management V2 Certifications.   
+Her native language is English, however she can read/write at an intermediate level in Catalan and Spanish.  She completed PMP and has ITIL Foundations and Service Management V2 Certifications.   Education is a life long goal and she aspires to keep her skills and knowledge up to date.  
+
+* [Introduction to R Programming, 2016](https://courses.edx.org/certificates/39fafab790364a10a0f73540a2e0b18a)
 
 ### CV and Portfolio
 
@@ -52,6 +58,8 @@ You can contact her directly (see CV) or contract through any of the major freel
 - [Linked In](https://www.linkedin.com/in/janet-astwood-3bb5b39/)
 - [Remote ](https://remote.com/janet-astwood) 
 - [Upwork ](https://www.upwork.com/freelancers/~014b27088d2e859ce3)
+- [PowertoFly ](https://powertofly.com/p/janeta5)
+- [CoWorks](https://app.coworks.com/jlastwood)
 
 ### Social Media 
 
